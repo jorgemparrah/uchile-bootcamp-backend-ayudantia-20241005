@@ -1,0 +1,1 @@
+{"version":3,"file":"api.service.js","sourceRoot":"","sources":["../../src/services_consultas/api.service.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAA4C;AAGrC,IAAM,UAAU,GAAhB,MAAM,UAAU;IACrB,MAAM,CAAC,QAAgB;QACrB,OAAO,CAAC,GAAG,CAAC,sBAAsB,EAAC,QAAQ,CAAC,CAAC;QAC7C,OAAO,EAAE,CAAC;IACZ,CAAC;CACF,CAAA;AALY,gCAAU;qBAAV,UAAU;IADtB,IAAA,mBAAU,GAAE;GACA,UAAU,CAKtB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"db.service.js","sourceRoot":"","sources":["../../src/services_consultas/db.service.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAA4C;AAGrC,IAAM,SAAS,GAAf,MAAM,SAAS;IACpB,UAAU,CAAC,QAAgB;QACzB,OAAO,CAAC,GAAG,CAAC,qBAAqB,EAAC,QAAQ,CAAC,CAAC;QAC5C,OAAO,EAAE,CAAC;IACZ,CAAC;CACF,CAAA;AALY,8BAAS;oBAAT,SAAS;IADrB,IAAA,mBAAU,GAAE;GACA,SAAS,CAKrB"}
